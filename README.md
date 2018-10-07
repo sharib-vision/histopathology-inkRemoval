@@ -12,8 +12,9 @@
   - Compiled Darknet for detection [here](https://github.com/AlexeyAB/darknet) or simply do
   
          -  ``git clone https://github.com/AlexeyAB/darknet.git``
-         -  cd make (check for necessary settings in above link)
-         -  make a soft link ln -s darknet $DIR_THIS_REPO/darknet/darknet
+         -  cd darknet 
+         -  make (check for necessary settings [here](https://github.com/AlexeyAB/darknet))
+         -  make a soft link ln -s $FULL_PATH/darknet $DIR_THIS_REPO/darknet/darknet
           
           
 ### How to use it?
