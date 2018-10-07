@@ -2,7 +2,7 @@
 
 
 
-## Requirements (maybe more than listed here, checkout requirements.txt):
+### Requirements (maybe more than listed here, checkout requirements.txt):
 
     - Linux/Unix only
     - TensorFlow 1.8 
@@ -16,19 +16,19 @@
          -  make a soft link ln -s darknet $DIR_THIS_REPO/darknet/darknet
           
           
-## How to use it?
+### How to use it?
 
     - Go to checkpoints folder and download test images and provided checkpoints
     - Run: test_ink_removal.py in code folder (see parameters inside the code)
 
-## How to use the entire pipeline?
+### How to use the entire pipeline?
 
     - Make sure you have a folder with image tiles
     - Make sure you have all the checkpoints needed
     - Go to scripts folder and edit ``writeTestDataResult.sh`` for `PATHS`
     - If all goes well then you should be able to run the entire pipeline
 
-## Evaluation
+### Evaluation
 
 
 
