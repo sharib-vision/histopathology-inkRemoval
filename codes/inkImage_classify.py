@@ -54,7 +54,7 @@ import numpy as np
     parser.add_argument('-result_dir', action='store', type=str, help='full path for the results to be saved')
     parser.add_argument('-checkpoint', action='store', type=str, help='full path of binaryclassifier checkpoint')
     parser.add_argument('-moveImages', action='store', type=int, help='move files option')
-    parser.add_argument('--fileListName', action='store', type=str, help='filename for list to be saved')
+    parser.add_argument('-fileListName', action='store', type=str, help='filename for list to be saved')
     arg_input = parser.parse_args()
 
     os.environ["CUDA_VISIBLE_DEVICES"]=str(0)
