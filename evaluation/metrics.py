@@ -1,7 +1,6 @@
 # @Author: Sharib Ali <shariba>
 # @Date:   1970-01-01T00:00:00+00:00
 # @Email:  sharib.ali@eng.ox.ac.uk
-# @Project: BRC: VideoEndoscopy
 # @Filename: metrics.py
 # @Last modified by:   shariba
 # @Last modified time: 2018-08-03T16:08:55+01:00
