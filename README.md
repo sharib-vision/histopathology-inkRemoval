@@ -8,8 +8,7 @@
     - TensorFlow 1.8 
     - pyTorch 0.4 
     - CUDA 8.0/9.0
-
-  - Compiled Darknet for detection [here](https://github.com/AlexeyAB/darknet) or simply do
+     - Compiled Darknet for detection [here](https://github.com/AlexeyAB/darknet) or simply do
   
          -  ``git clone https://github.com/AlexeyAB/darknet.git``
          -  cd darknet 
