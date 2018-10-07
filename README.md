@@ -2,7 +2,7 @@
 
 
 
-# Requirements (maybe more than listed here, checkout requirements.txt):
+## Requirements (maybe more than listed here, checkout requirements.txt):
 
     - Linux/Unix only
     - TensorFlow 1.8 
