@@ -1,0 +1,5 @@
+classes= 2
+train  = /well/rittscher/projects/detection_histology/histotrain_ISBI_2class.txt
+valid  =  /well/rittscher/projects/detection_histology/histotest_ISBI_2class.txt
+names = data/obj.names
+backup = backup/
