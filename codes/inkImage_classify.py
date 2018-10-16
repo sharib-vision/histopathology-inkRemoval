@@ -3,7 +3,7 @@
 """
 Created on Sat Jun 27 19:22:01 2018
 
-@author: sharib (some code borrowed from Felix)
+@author: sharib 
 """
 def read_rgb(f):
 
