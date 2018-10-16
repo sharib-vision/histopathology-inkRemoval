@@ -1,6 +1,6 @@
 # histopathology-inkRemoval
 
-(working on removing PATH setting...)
+(working on removing explicit PATH setting...)
 
 ### Requirements (maybe more than listed here, checkout requirements.txt):
 
