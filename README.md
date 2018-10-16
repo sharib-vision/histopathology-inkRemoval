@@ -2,6 +2,8 @@
 
 (working on removing explicit PATH setting...)
 
+``parts of codes are borrowed from CycleGAN for foreground ink removal``
+
 ### Requirements (maybe more than listed here, checkout requirements.txt):
 
 - Linux/Unix only
