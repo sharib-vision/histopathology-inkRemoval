@@ -1,6 +1,6 @@
 ### Download link and contents description
 
-Download sample images and all checkpoints [here](https://unioxfordnexus-my.sharepoint.com/:f:/r/personal/engs1903_ox_ac_uk/Documents/HISTOPATHOLOGY-PIPELINE-CHECKPOINTS?csf=1&e=kkyi3G)
+Download sample images and all checkpoints [here](https://unioxfordnexus-my.sharepoint.com/:f:/g/personal/engs1903_ox_ac_uk/Er6tGETx8dhDjhJAoOiMTCwBTMo063QC6X69MHe1O8MmVw?e=454VmE)
 
 Includes:
 
