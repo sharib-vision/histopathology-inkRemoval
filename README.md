@@ -7,7 +7,7 @@
 ### Requirements (maybe more than listed here, checkout requirements.txt):
 
 - Linux/Unix only
-- TensorFlow 1.8 
+- Keras with TensorFlow backend
 - pyTorch 0.4 
 - CUDA 8.0/9.0
 - Compiled Darknet for detection [here](https://github.com/AlexeyAB/darknet) or simply do
