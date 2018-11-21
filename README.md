@@ -32,6 +32,7 @@
 
 ### Evaluation
 
+Check the folder [here](https://github.com/sharibox/histopathology-inkRemoval/tree/master/evaluation)
 
 ### Test data 
 
