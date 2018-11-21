@@ -33,8 +33,11 @@
 ### Evaluation
 
 
+### Test data 
 
+[Download here](https://s3.amazonaws.com/histologyinkremoval/histo_ink_removal.zip)
 
+    Note: Please change the data directory in script to this folder
 
 ## License
 
