@@ -38,7 +38,7 @@ Check the folder [here](https://github.com/sharibox/histopathology-inkRemoval/tr
 
 [Download here](https://s3.amazonaws.com/histologyinkremoval/histo_ink_removal.zip)
 
-    Note: Please change the data directory in script to this folder
+    Note: Please change the data directory in scripts/writeTestDataResult.sh to this folder
 
 ## License
 
