@@ -43,3 +43,6 @@ Check the folder [here](https://github.com/sharibox/histopathology-inkRemoval/tr
 ## License
 
 This software is covered by MIT License.
+
+## Cite
+Ink removal from histopathology whole slide images by combining classification, detection and image generation models. Ali et al. 2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019)
